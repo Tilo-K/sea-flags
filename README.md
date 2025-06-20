@@ -1,5 +1,5 @@
 <div style="text-align: center; items-align: center; justify-content: center; display: flex;">
-![[SeaFlags Logo](https://github.com/tilo-k/sea-flags/blob/master/logo.png)
+<img src="https://github.com/tilo-k/sea-flags/blob/master/logo.png" alt="SeaFlags Logo" width="200" height="200">
 </div>
 
 # SeaFlags
