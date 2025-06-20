@@ -1,6 +1,6 @@
 # SeaFlags: A Simple C Library for Command Line Argument Parsing
 
-<div style="text-align: center; items-align: center; justify-content: center; display: flex; width: 100%;">
+<div style="text-align: center; align-items: center; justify-content: center; display: flex; width: 100%;">
 <img src="https://github.com/tilo-k/sea-flags/blob/master/logo.png" alt="SeaFlags Logo" width="300" height="300">
 </div>
 
